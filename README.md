@@ -1,7 +1,5 @@
-# The 18th "Challenge Cup" Guangdong Competition - Adaptive Analysis System for Complex Heterogeneous Data -Project Showcase
+### 🏆 Adaptive Analysis System for Complex Heterogeneous Data
 
-## Core Achievements & Track
-* **Competition Track:** **Natural Science Thesis Track**
-* **Provincial Award:** **Provincial Grand Prize**
-* **National Award:** **National Third Prize**
-
+* **Competition:** The 18th "Challenge Cup" (Natural Science Thesis Track)
+* **Awards:** **Provincial Grand Prize** \& **National Third Prize**
+* **Deliverables:** [View Project Showcase (Slides, Posters)](https://github.com/XinxiiChen/ChallengeCup-2025-Federated_Heterogeneous_Data_Analysis/tree/main/Presentation)

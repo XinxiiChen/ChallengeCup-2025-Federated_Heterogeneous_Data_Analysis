@@ -1,13 +1,21 @@
 ## 📸 Project Gallery
 
-Here is a visual overview of our work, including the methodology slides, the competition poster, and the detailed documentation.
+> **Project Title:** 多源异质大数据联合分析
+> **Competition:** 2025 "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition  
+> **Track:** cademic Paper Track
+
+---
+
+This section presents a **visual summary** of our project, highlighting the core methodology, competition materials, and documentation design.
+
+> 📂 **Note:** The images below serve as a preview. For the **complete technical report** and detailed specifications, please refer to the **[`/docs`](./docs)** directory.
 
 <!-- 1. PPT 拼图：展示核心思路 -->
 ### 1. Methodology & Highlights (Slides)
 <!-- 你的PPT拼图放在这里 -->
 <div align="center">
   <img src="assets/PPT_Collage.png" width="100%" alt="Methodology Slides">
-  <p><em>Overview of the Motivation, Framework, and Experimental Results.</em></p>
+  <p><em>Key slides illustrating the background, framework, innovative methods, and project outcomes.</em></p>
 </div>
 
 ---
@@ -16,7 +24,7 @@ Here is a visual overview of our work, including the methodology slides, the com
 ### 2. Competition Showcase (On-site Poster)
 <!-- 你的现场展板照片放在这里 -->
 <div align="center">
-  <img src="assets/Poster_Photo.png" width="800px" alt="On-site Poster">
+  <img src="assets/Poster_Photo.png" width="50%" alt="On-site Poster">
   <p><em>Presentation at the Provincial Grand Prize Defense.</em></p>
 </div>
 
@@ -27,5 +35,5 @@ Here is a visual overview of our work, including the methodology slides, the com
 <!-- 你的作品书拼图放在这里 -->
 <div align="center">
   <img src="assets/Report_Collage.png" width="100%" alt="Project Documentation">
-  <p><em>Comprehensive Technical Proposal and Implementation Details.</em></p>
+  <p><em>Cover design and layout overview of the technical proposal.</em></p>
 </div>

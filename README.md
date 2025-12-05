@@ -2,15 +2,17 @@
 
 **Project Title:** Federated Analysis of Multi-source Heterogeneous Big Data（多源异质大数据联合分析）
 
-**Competition:** 2025 "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition  
+**Competition:** 2025 "Challenge Cup" National Undergraduate Academic Science and Technology Competition 
 
 **Track:** Academic Paper Track
 
+**Award:** 🏆 Provincial Grand Prize & National Third Prize 
+
 ---
 
-This section presents a **visual summary** of our project, highlighting the core methodology, competition materials, and documentation design.
+Here is a **visual summary** of our project, highlighting the **core methodology**, **competition poster**, and **documentation cover design**.
 
-> 📂 **Note:** The images below serve as a preview. For the **complete technical report** and detailed specifications, please refer to the **[`/docs`](./docs)** directory.
+> 📂 **Note:**  For the detailed materials, please refer to the **[`/docs`](./docs)** directory.
 
 <!-- 1. PPT 拼图：展示核心思路 -->
 
@@ -41,19 +43,21 @@ This section presents a **visual summary** of our project, highlighting the core
   <p><em>Cover design and layout overview of the technical proposal.</em></p>
   <!-- 说明文字 -->
   <p align="left">
-    <strong>📄 Full Compilation (Optional):</strong><br>
-    The file below integrates the <strong>Competition Poster</strong> and the <strong>Investigation Report</strong>, with our <strong>Research Papers appended at the end</strong>.<br>
+    <strong>📄 Full proposal (Optional):</strong><br>
+    The file below integrates the <strong>Competition Poster</strong> and the <strong>Investigation Report</strong>, with our <strong>Research Papers</strong> appended at the end.<br>
     <small>
       (Note: Due to the large file size, the PDF <strong>cannot be rendered</strong> directly in the browser. Downloading is required <strong>only if</strong> you wish to view the complete details.)
     </small>
   </p>
 
+
   <!-- 下载按钮 -->
   <p>
     <!-- 记得检查文件名是否已经改成了下划线版本 -->
-    <a href="./docs/Full_Report.pdf">
+    <a href="./docs/Research_Report.pdf">
       <strong>[📥 Download Full PDF (86.4MB)]</strong>
     </a>
   </p>
+
 
 

@@ -1,8 +1,10 @@
 ## 📸 Project Gallery
 
-> **Project Title:** 多源异质大数据联合分析
-> **Competition:** 2025 "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition  
-> **Track:** cademic Paper Track
+**Project Title:** 多源异质大数据联合分析
+
+**Competition:** 2025 "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition  
+
+**Track:** Academic Paper Track
 
 ---
 
@@ -11,6 +13,7 @@ This section presents a **visual summary** of our project, highlighting the core
 > 📂 **Note:** The images below serve as a preview. For the **complete technical report** and detailed specifications, please refer to the **[`/docs`](./docs)** directory.
 
 <!-- 1. PPT 拼图：展示核心思路 -->
+
 ### 1. Methodology & Highlights (Slides)
 <!-- 你的PPT拼图放在这里 -->
 <div align="center">
@@ -36,4 +39,22 @@ This section presents a **visual summary** of our project, highlighting the core
 <div align="center">
   <img src="assets/Report_Collage.png" width="100%" alt="Project Documentation">
   <p><em>Cover design and layout overview of the technical proposal.</em></p>
-</div>
+  <!-- 说明文字 -->
+  <p align="left">
+    <strong>📄 Full Compilation (Optional):</strong><br>
+    The file below integrates the <strong>Competition Poster</strong> and the <strong>Investigation Report</strong>, with our <strong>Research Papers appended at the end</strong>.<br>
+    <small>
+      (Note: Due to the large file size, the PDF <strong>cannot be rendered</strong> directly in the browser. Downloading is required <strong>only if</strong> you wish to view the complete details.)
+    </small>
+  </p>
+
+  <!-- 下载按钮 -->
+  <p>
+    <!-- 记得检查文件名是否已经改成了下划线版本 -->
+    <a href="./docs/Full_Report.pdf">
+      <strong>[📥 Download Full PDF (86.4MB)]</strong>
+    </a>
+  </p>
+
+
+

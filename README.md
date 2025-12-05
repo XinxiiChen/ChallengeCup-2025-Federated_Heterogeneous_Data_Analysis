@@ -16,7 +16,7 @@ Here is a visual overview of our work, including the methodology slides, the com
 ### 2. Competition Showcase (On-site Poster)
 <!-- 你的现场展板照片放在这里 -->
 <div align="center">
-  <img src="assets/Poster_Photo.jpg" width="800px" alt="On-site Poster">
+  <img src="assets/Poster_Photo.png" width="800px" alt="On-site Poster">
   <p><em>Presentation at the Provincial Grand Prize Defense.</em></p>
 </div>
 

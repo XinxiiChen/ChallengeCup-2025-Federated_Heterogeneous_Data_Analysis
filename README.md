@@ -43,10 +43,10 @@ Here is a **visual summary** of our project, highlighting the **core methodology
   <p><em>Cover design and layout overview of the technical proposal.</em></p>
   <!-- 说明文字 -->
   <p align="left">
-    <strong>📄 Full proposal (Optional):</strong><br>
-    The file below integrates the <strong>Competition Poster</strong> and the <strong>Investigation Report</strong>, with our <strong>Research Papers</strong> appended at the end.<br>
+    <strong>📄 Full Report (Optional):</strong><br>
+    This file includes the competition poster, followed by our full research papers.<br>
     <small>
-      (Note: Due to the large file size, the PDF <strong>cannot be rendered</strong> directly in the browser. Downloading is required <strong>only if</strong> you wish to view the complete details.)
+      (Note: The PDF is large and <strong>cannot be rendered</strong> in the browser. Please download it if you wish to view all details.)
     </small>
   </p>
 
@@ -58,6 +58,5 @@ Here is a **visual summary** of our project, highlighting the **core methodology
       <strong>[📥 Download Full PDF (86.4MB)]</strong>
     </a>
   </p>
-
 
 

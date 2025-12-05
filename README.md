@@ -1,6 +1,6 @@
 ## 📸 Project Gallery
 
-**Project Title:** 多源异质大数据联合分析
+**Project Title:** Federated Analysis of Multi-source Heterogeneous Big Data（多源异质大数据联合分析）
 
 **Competition:** 2025 "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition  
 
@@ -55,6 +55,5 @@ This section presents a **visual summary** of our project, highlighting the core
       <strong>[📥 Download Full PDF (86.4MB)]</strong>
     </a>
   </p>
-
 
 
